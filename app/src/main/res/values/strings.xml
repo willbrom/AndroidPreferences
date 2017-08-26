@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Udacity Preferences</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_show_text_title">Show Text</string>
+    <string name="pref_show_text_key" translatable="false">show_text</string>
+    <string name="pref_summary_on">Show</string>
+    <string name="pref_summary_off">Hide</string>
+</resources>
